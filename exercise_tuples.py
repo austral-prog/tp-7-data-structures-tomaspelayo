@@ -11,7 +11,7 @@ def get_coordinate(registro):
     Returns:
         Un string con la coordenada del mapa
     """
-     return registro[1]
+    return registro[1]
 
 
 def convert_coordinate(coordenada):
